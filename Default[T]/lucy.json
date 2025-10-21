@@ -1,0 +1,9 @@
+{
+  "modules": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "scripts": {},
+  "initialized": false,
+  "type": "tauri",
+  "packageManager": "pnpm"
+}
