@@ -14,6 +14,12 @@ To run the dev server for your app, use:
 npx nx serve test
 ```
 
+if you want TTY
+
+```sh
+nx run better-shop:generate
+```
+
 To create a production bundle:
 
 ```sh
